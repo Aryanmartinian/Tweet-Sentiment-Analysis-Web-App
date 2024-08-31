@@ -1,6 +1,13 @@
-# Project-Sentiment-Analysis - ![App1 image](https://github.com/Aryanmartinian/Project-Sentiment-Analysis/assets/123578659/7cbedfc8-d813-4ff2-9c60-3780f9787927)
+# Tweet Sentiment Analysis Web App - 
 
-![App image 2](https://github.com/Aryanmartinian/Project-Sentiment-Analysis/assets/123578659/107597f1-d8a7-40be-9569-091f8cf56d7f)
+Purpose - 
+This web application analyzes tweets to determine their sentiment—whether they are positive, negative, or neutral. It leverages machine learning models trained on tweet datasets to perform sentiment classification. The app is designed to provide insights into public opinion on a particular topic by analyzing the sentiment behind the tweets.
+
+![Tweet_sentiment_1](https://github.com/user-attachments/assets/3e65e90f-0007-4890-8645-7bfe0c2e8b92)
 
 
-![App image 3](https://github.com/Aryanmartinian/Project-Sentiment-Analysis/assets/123578659/3f490074-1717-4c34-8689-7fa86431c9c6)
+![Tweet_sentiment_2](https://github.com/user-attachments/assets/c39bab98-756d-440c-b3df-79245a718bd6)
+![Tweet_sentiment_3](https://github.com/user-attachments/assets/5b3da8e8-3c56-4268-a799-310ac4aef9c6)
+
+![Tweet_sentiment_5](https://github.com/user-attachments/assets/fd586911-7296-41af-a7da-76e87d11338e)
+![Tweet_sentiment_6](https://github.com/user-attachments/assets/91935a1e-356f-4132-b329-1bccd010ea79)
