@@ -11,3 +11,4 @@ This web application analyzes tweets to determine their sentiment—whether they
 
 ![Tweet_sentiment_5](https://github.com/user-attachments/assets/fd586911-7296-41af-a7da-76e87d11338e)
 ![Tweet_sentiment_6](https://github.com/user-attachments/assets/91935a1e-356f-4132-b329-1bccd010ea79)
+![tweet_sentiment_7](https://github.com/user-attachments/assets/5ff9dcf0-f0eb-4ab9-9447-edeecab3af63)
